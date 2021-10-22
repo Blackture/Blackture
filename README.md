@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blackture
 - 👀 I’m interested in: Programming & Art
-- 🌱 I’m currently learning: Developing games with the Unity Engine
+- 🌱 I’m currently learning: Developing games (Unity-/Unreal-/Cry Engine)
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: blaxrewstudios.official@gmail.com
 - 🌐 My project descriptions are available [here](https://blackture.github.io) or [there](https://blaxrewstudios.github.io).
