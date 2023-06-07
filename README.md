@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blackture
-- 👀 I’m interested in: Programming, Art & Physics
+- 👀 I’m interested in: Programming, Art and Physics
 - 🌱 I’m currently learning: Developing games (Unity-/Unreal-/Cry Engine) & Physics
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: gamingblackture@gmail.com
