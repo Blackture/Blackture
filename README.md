@@ -7,7 +7,7 @@
 - 🌐 My website can be found [here](https://blackture.bss.design)
 - 🌐 Other links
     - [Engine Site](https://pengine.bss.design)
-    - [Engine Site](https://blackture.github.io/EngineDocs)
+    - [Engine Docs](https://blackture.github.io/EngineDocs)
     - [Docs Collection](https://blackture.github.io/Docs)
 <!---
 Blackture/Blackture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
